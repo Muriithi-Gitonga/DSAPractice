@@ -12,7 +12,7 @@ def getMinMaX(A, N):
             max_element = A[j]
            
     return min_element, max_element
-
+A = [10000, 2, 1, 56, 3, 167]
 
 # print(getMinMaX(A, N))
 
