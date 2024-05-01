@@ -8,7 +8,7 @@ This repository contains all the DSA questions that I have solved till now.
 ### The questions are from the following websites:
 
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
-- 
+- [HackerRank](https://www.hackerrank.com/)
 - 
 
 ### Youtube Channels I follow to learn DSA
