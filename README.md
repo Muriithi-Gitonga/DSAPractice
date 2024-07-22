@@ -15,7 +15,6 @@ This repository contains all the DSA questions that I have solved till now.
 
 - [takeuforward](https://www.youtube.com/@takeUforward)
 - 
-- 
 
 ### DSA sheets I follow to learn DSA
 
